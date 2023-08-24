@@ -1,0 +1,27 @@
+.mylist-title {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .user {
+    list-style-type: none;
+    margin-bottom: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #ccc;
+    background-color: #000000; /* Fond gris plus foncé */
+  }
+  
+  .userName {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: white; /* Texte blanc */
+  }
+  
+  .userAge {
+    font-size: 1.2em;
+    color: gray;
+  }
+  
